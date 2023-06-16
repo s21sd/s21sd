@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s21sd" alt="s21sd" /></a> </p>
 
-- 🔭 I’m currently working on [Password Generator using React](https://github.com/s21sd/Password-Generator)
+- 🔭 I’m currently working on [Password Generator using React](https://github.com/s21sd/GeneratePass)
 
 - 🌱 I’m currently learning **React, Nodejs etc**
 
