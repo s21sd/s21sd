@@ -34,3 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s21sd&show_icons=true&locale=en&layout=compact" alt="s21sd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s21sd&show_icons=true&locale=en" alt="s21sd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s21sd&" alt="s21sd" /></p>
