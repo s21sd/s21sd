@@ -1,9 +1,5 @@
-![logo](https://github.com/s21sd/s21sd/blob/main/github-header-image.png)
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<h1 align="center">Hi 👋, I'm Sunny Srivastava</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+![logo](https://github.com/s21sd/s21sd/blob/main/Make%20your%20README.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s21sd&label=Profile%20views&color=0e75b6&style=flat" alt="s21sd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s21sd" alt="s21sd" /></a> </p>
 
@@ -24,6 +20,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RhlqKXig5Jgaj7XWc1A3o1P5HcfKmr80/view?usp=sharing](https://drive.google.com/file/d/1RhlqKXig5Jgaj7XWc1A3o1P5HcfKmr80/view?usp=sharing)
 
 - ⚡ Fun fact **I am a full stack developer but don't know how to center a div 😂😂**
+- 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s21sd&label=Profile%20views&color=0e75b6&style=flat" alt="s21sd" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
